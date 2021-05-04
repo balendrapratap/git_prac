@@ -1,0 +1,11 @@
+welcome to file9
+
+unmodifying a modified file.
+
+suppose you commited this file in few days back.
+now developer came and modified this file9 but later on 
+he want to unmodify this fiel or want to same as lst commit.
+
+for this we will use "checkout" command
+
+
