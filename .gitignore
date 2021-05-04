@@ -1,0 +1,15 @@
+# here we will write the pattern to ignore the file while commit
+
+# ignore all .a files
+.a
+
+#but to track lib.a, even though you're ignoring .a files above
+!lib.a
+
+# only ignore TODO file in the current directory, nor subdirectory /TODO
+/TODO
+
+#ignore all files in any directory named build
+build/
+
+
