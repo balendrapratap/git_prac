@@ -1,0 +1,9 @@
+welcome to file7
+
+file7 and file8 is created for "unstaging a staged file".
+
+suppose you staged file7 and file8 both via "git add *" command.
+
+but you dont wanted to stage file8 so for that we will do unstaging.
+
+
